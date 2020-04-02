@@ -1,0 +1,15 @@
+{
+    "files": {
+        "index.js": "1798ec40aed04c9b5393247f461e401fd6efe422523196413eb592688ac6e43b",
+        "module.json": "3a29d0154736d6e09c76384ba3bda8c055fd2a624010adf658018a1522972e56",
+        "readme.md": "58189b6b20540731ea9e5822eb041aecf573eeddf28f2dc70e66dfaaf563ea77",
+        "settings.js": "3db4b6d976c748fa9f280dbfea8e668ef452425743244bd2bd25251e9af07d49"
+    },
+    "defs": {
+        "S_LOGIN": 14,
+        "S_PARTY_MEMBER_LIST": 7,
+        "S_SYSTEM_MESSAGE": 1,
+        "S_SYSTEM_MESSAGE_LOOT_ITEM": 1,
+        "S_SYSTEM_MESSAGE_LOOT_SPECIAL_ITEM": 1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Drophistory",
+    "author": "Kitoyo",
+    "description": "Notifies and keeps track of dropped items for you with configurable whitelist and file export",
+    "options": {
+        "reloadable": false,
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/giggin/Drophistory/master/"],
+    "supportUrl": "https://github.com/giggin/Drophistory/issues"
+}
