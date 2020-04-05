@@ -14,7 +14,7 @@ const DefaultSettings = {
 		'#22ff00',	//green
 		'#00ccff',	//blue
 		'#ffcc00',	//yellow
-		'#cc19b6'   //Mythical
+		'#cc19b6'	//Mythical
 	],
 
 	whitelist: [
@@ -37,6 +37,12 @@ const DefaultSettings = {
 		209126,
 		//Zenobia's Breeze Crate
 		206960,
+		// Naslow's Treasure Map
+		206858,
+		206859,
+		206860,
+		206861,
+		206862,
 		//Kelsaik Weapon Skins
 		98721,
 		98722,
