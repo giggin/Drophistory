@@ -18,7 +18,12 @@ const DefaultSettings = {
 	],
 
 	whitelist: [
-		
+		//EXTREME Key
+		155520,
+		216730,
+		222680,
+		//Sea of Honor Voyage Map
+		206884,
 		//Dark Shard Feedstock
 		98677,
 		98678,
