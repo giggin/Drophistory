@@ -18,6 +18,8 @@ const DefaultSettings = {
 	],
 
 	whitelist: [
+		//Battered Oath Token
+		206975,
 		//EXTREME Key
 		155520,
 		216730,
