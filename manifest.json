@@ -1,10 +1,10 @@
 {
     "files": {
-        "config.json": "8844218aa124d7b7fabbfad1b34e46d20fdea25ef69b10535b94ef458c06643b",
+        "config.json": "86781e1e0a6190d5c04adcf904177782c0c4e754fc588de458ad6472b816c250",
         "index.js": "1798ec40aed04c9b5393247f461e401fd6efe422523196413eb592688ac6e43b",
         "module.json": "3a29d0154736d6e09c76384ba3bda8c055fd2a624010adf658018a1522972e56",
         "readme.md": "58189b6b20540731ea9e5822eb041aecf573eeddf28f2dc70e66dfaaf563ea77",
-        "settings.js": "c2f21e9cc27f94473244463e3f1f4c6ac3e7f1751618b6705e3ed0fd7fd6297b"
+        "settings.js": "ee05e5a10420f6151d511b8f0886da0c4173df7b0a779e8e2483b488ce6e1525"
     },
     "defs": {
         "S_LOGIN": 14,

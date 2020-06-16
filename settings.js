@@ -256,7 +256,12 @@ const DefaultSettings = {
 		89690,
 		89691,
 		89692,
-		
+		89805, //Rings
+		89806,
+		89807, //Necklaces
+		89808,
+		89809, //Infusions
+		89810
 	],
 	exoItems: [
 		{
@@ -1057,6 +1062,22 @@ const DefaultSettings = {
 		},
 		{
 			"id": 89692,
+			"statString": " (3 stats)"
+		},
+		{
+			"id": 89805,
+			"statString": " (3 stats)"
+		},
+		{
+			"id": 89806,
+			"statString": " (3 stats)"
+		},
+		{
+			"id": 89807,
+			"statString": " (3 stats)"
+		},
+		{
+			"id": 89808,
 			"statString": " (3 stats)"
 		}
 	]
