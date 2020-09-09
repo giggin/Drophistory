@@ -308,10 +308,15 @@ const DefaultSettings = {
 		89692,
 		89805, //Rings
 		89806,
+		89898, //Earrings
+		89899,
 		89807, //Necklaces
 		89808,
+		89900, //Circlet
 		89809, //Infusions
-		89810
+		89810,
+		89901,
+		89902
 	],
 	exoItems: [
 		{
